@@ -91,6 +91,19 @@ This dashboard enables stakeholders to:
 
 Developed a comprehensive E-Commerce Sales Dashboard in Power BI analyzing 2,000 orders across three years and $1.38M in revenue. Implemented eight DAX measures including YoY growth analysis, profit margin tracking, and return rate monitoring. Designed interactive multi-dimensional filtering through slicers (Region, Category, Segment, Date Range) enabling stakeholders to drill-down into key performance indicators. Visualizations included trend analysis, geographic heatmapping, product profitability ranking, and period-over-period comparison. Dashboard published to Power BI Service and shared for real-time stakeholder reporting.
 
+
+## 🎓 Certification
+
+**Microsoft Power BI - Beginner to Pro**
+- Platform: Udemy
+- Instructors: RPATech - Automating Intelligence, Aahana Singh
+- Completion Date: November 10, 2025
+- Duration: 7.5 total hours
+- Certificate: [View Certificate](./power_bi_udemy.jpg)
+- Verification: [ude.my/UC-77f65032-5ebd-4e50-9028-28abddbf40ed](https://ude.my/UC-77f65032-5ebd-4e50-9028-28abddbf40ed)
+
+![Power BI Certificate](./power_bi_udemy.jpg)
+
 ## 👤 Author
 
 **Roshan** - Data Engineering Professional
