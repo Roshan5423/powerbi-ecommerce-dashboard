@@ -75,17 +75,6 @@ This dashboard enables stakeholders to:
 - Compare year-over-year growth metrics
 - Make data-driven inventory and pricing decisions
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Power BI Desktop (free download from Microsoft)
-- Power BI Service account (free for individuals)
-
-### Installation
-1. Clone this repository
-2. Open the `.pbix` file in Power BI Desktop
-3. Explore the dashboard or modify as needed
-4. Publish to your Power BI Service workspace
 
 ## 📝 Project Summary for Resume
 
